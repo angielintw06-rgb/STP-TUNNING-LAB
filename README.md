@@ -1,4 +1,4 @@
-# STP Tuning Lab (CCNP ENCOR)
+# STP Tuning Lab 
 
 This lab demonstrates Spanning Tree Protocol (STP) tuning across a four-switch topology using bridge priority, port cost, and port priority to control root bridge election and forwarding paths for VLAN 10 and VLAN 20.
 
