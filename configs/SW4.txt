@@ -1,0 +1,5 @@
+! SW4 - Spanning Tree Configuration
+!
+interface GigabitEthernet0/1
+ spanning-tree vlan 10 cost 19
+!

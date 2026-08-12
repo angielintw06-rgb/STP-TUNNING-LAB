@@ -1,0 +1,5 @@
+! SW3 - Spanning Tree Configuration
+!
+interface GigabitEthernet0/1
+ spanning-tree vlan 20 cost 19
+!

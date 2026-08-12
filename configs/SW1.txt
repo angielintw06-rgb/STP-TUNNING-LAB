@@ -1,0 +1,8 @@
+! SW1 - Spanning Tree Configuration
+!
+spanning-tree vlan 10 priority 0
+spanning-tree vlan 20 priority 4096
+!
+interface GigabitEthernet0/0
+ spanning-tree vlan 10 port-priority 240
+!
